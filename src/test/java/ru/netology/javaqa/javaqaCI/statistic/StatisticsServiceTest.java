@@ -1,3 +1,4 @@
+package ru.netology.javaqa.javaqaCI.statistic;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
 public class StatisticsServiceTest {
